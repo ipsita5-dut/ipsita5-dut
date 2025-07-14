@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ipsita</h1>
 <h3 align="center">A passionate Full Stack Developer & AI Enthusiast from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/674621/194772095-84b7cba2-a0a4-4fc8-91f9-d62eb4bfb3f5.png" width="400" alt="developer girl coding aesthetic">
+</p>
 ---
 
 🔭 I’m currently working on **Write Flow APP** — an AI-powered social blogging platform  
