@@ -37,17 +37,6 @@
 
 ---
 
-### 🌟 Contributions Graph
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipsita5-dut&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipsita5-dut&layout=compact&theme=rose_pine&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipsita5-dut&theme=rose_pine&hide_border=true" />
-</p>
-
-
----
 
 ### 🌟 Featured Projects
 
@@ -61,7 +50,9 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arshiyanandy&theme=radical&column=7&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ipsita5-dut&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=15" />
+</p>
 
 ---
 
