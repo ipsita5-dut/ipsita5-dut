@@ -39,7 +39,10 @@
 
 ### 🌟 Contributions Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arshiyanandy&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipsita5-dut&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ---
 
